@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Development\\FiveM\\LondonBlueLine\\Scripting\\FivePD\\BlueLineFivePd\\Callouts\\Callouts.csproj": {}
+  },
+  "projects": {
+    "H:\\Development\\FiveM\\LondonBlueLine\\Scripting\\FivePD\\BlueLineFivePd\\Callouts\\Callouts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Development\\FiveM\\LondonBlueLine\\Scripting\\FivePD\\BlueLineFivePd\\Callouts\\Callouts.csproj",
+        "projectName": "BlueCallouts.net",
+        "projectPath": "H:\\Development\\FiveM\\LondonBlueLine\\Scripting\\FivePD\\BlueLineFivePd\\Callouts\\Callouts.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "H:\\Development\\FiveM\\LondonBlueLine\\Scripting\\FivePD\\BlueLineFivePd\\Callouts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "targetAlias": "net452",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "targetAlias": "net452",
+          "dependencies": {
+            "CitizenFX.Core.Client": {
+              "target": "Package",
+              "version": "[1.0.2974, )"
+            },
+            "stateless": {
+              "target": "Package",
+              "version": "[5.11.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
